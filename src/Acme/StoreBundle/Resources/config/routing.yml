@@ -1,0 +1,3 @@
+acme_store_homepage:
+    path:     /hah
+    defaults: { _controller: AcmeStoreBundle:Product:index, id: 1 }
