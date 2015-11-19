@@ -21,7 +21,7 @@ class ProductController extends Controller
     /**
      * Lists all Product entities.
      *
-     * @Route("/store", name="product")
+     * @Route("/", name="product")
      * @Method("GET")
      * @Template()
      */
